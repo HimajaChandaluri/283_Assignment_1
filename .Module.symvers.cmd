@@ -1,0 +1,1 @@
+cmd_/home/himaja/Downloads/CMPE283Assignment1/Module.symvers := sed 's/ko$$/o/' /home/himaja/Downloads/CMPE283Assignment1/modules.order | scripts/mod/modpost -m -a   -o /home/himaja/Downloads/CMPE283Assignment1/Module.symvers -e -i Module.symvers   -T -

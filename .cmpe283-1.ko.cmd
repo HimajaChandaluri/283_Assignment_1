@@ -1,0 +1,1 @@
+cmd_/home/himaja/Downloads/CMPE283Assignment1/cmpe283-1.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/himaja/Downloads/CMPE283Assignment1/cmpe283-1.ko /home/himaja/Downloads/CMPE283Assignment1/cmpe283-1.o /home/himaja/Downloads/CMPE283Assignment1/cmpe283-1.mod.o;  true
