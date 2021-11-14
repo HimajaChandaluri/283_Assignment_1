@@ -1,5 +1,16 @@
 # CMPE 283 Assignment 1
 
+## Contributions
+
+### Both
+
+> We connected over a zoom call to complete the assignment. We created a **Ubuntu** boot on the machine. We downloaded the .c and Makefile from canvas. We divided the work of writing the structs and the method calls. We updated the .c file with our codes. We solved the errors along the way and followed the below mentioned steps to list the capability information.
+
+### Himaja Chandaluri
+
+> Researched and wrote the struct's for **procbased primary pins** and **exitctl** capabilities. Wrote code to print these pin capabilities by calling the rdmsr and report_capabilities methods 
+
+
 ## Steps followed
 
 1. Download the .c and Makefile from Canvas
