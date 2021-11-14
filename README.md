@@ -10,6 +10,8 @@
 
 > Researched and wrote the struct's for **procbased primary pins** and **exitctl** capabilities. Wrote code to print these pin capabilities by calling the rdmsr and report_capabilities methods 
 
+### Sravya Ratna Chandra Lekha Mamidi
+> Write the struct's for **pinbased** capabilities and **entryctl** capabilities. Write code to print these pin capabilities by calling report_capability and rdmsr functions 
 
 ## Steps followed
 
